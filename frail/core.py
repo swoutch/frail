@@ -1,7 +1,7 @@
 """
     How to use it:
     >>> import frail, pendulum
-    >>> trains = frail.search("FRPAR", "FRMRS", timestamp=pendulum.datetime(2019, 10, 5, 6))
+    >>> trains = frail.search("FRPAR", "FRMRS", timestamp=pendulum.now())
 """
 import json
 
