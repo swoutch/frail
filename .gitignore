@@ -1,0 +1,17 @@
+# pytest
+.pytest_cache
+
+# vscode
+.vscode
+
+# setuptools
+build
+dist
+frail.egg-info
+
+# python
+frail/__pycache__
+
+# pipenv
+Pipfile
+Pipfile.lock

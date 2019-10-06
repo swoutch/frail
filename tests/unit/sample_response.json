@@ -1,0 +1,54 @@
+{
+    "travelProposals": [
+        {
+            "origin": {
+                "station": {
+                    "label": "PARIS GARE DE LYON",
+                    "metaData": {
+                        "MI": {
+                            "code": "FRPLY"
+                        }
+                    }
+                }
+            },
+            "destination": {
+                "station": {
+                    "label": "MARSEILLE SAINT CHARLES",
+                    "metaData": {
+                        "MI": {
+                            "code": "FRMSC"
+                        }
+                    }
+                }
+            },
+            "departureDate": "2019-10-05T06:12:00",
+            "arrivalDate": "2019-10-05T09:26:00",
+            "minPrice": 45.0
+        },
+         {
+            "origin": {
+                "station": {
+                    "label": "PARIS GARE DE LYON",
+                    "metaData": {
+                        "MI": {
+                            "code": "FRPLY"
+                        }
+                    }
+                }
+            },
+            "destination": {
+                "station": {
+                    "label": "MARSEILLE SAINT CHARLES",
+                    "metaData": {
+                        "MI": {
+                            "code": "FRMSC"
+                        }
+                    }
+                }
+            },
+            "departureDate": "2019-10-05T07:10:50",
+            "arrivalDate": "2019-10-05T10:11:34",
+            "minPrice": 12
+        }
+    ]
+}
